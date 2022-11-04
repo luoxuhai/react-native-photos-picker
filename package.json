@@ -1,0 +1,12 @@
+{
+  "name": "react-native-photos-picker",
+  "version": "0.0.1",
+  "description": "Selecting photos and videos in your React Native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
